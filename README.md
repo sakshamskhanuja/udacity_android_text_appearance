@@ -27,7 +27,7 @@ Following is the <b>style</b> used for ```android:textAppearance```:
 
 ### Screenshots
 
-| Device | Virtual | OS | API | Orientation |
-| --- | --- | --- | --- | --- |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Portrait](https://user-images.githubusercontent.com/122201501/224092909-240b911c-8f96-49c2-b80b-183c2c3fd2e2.png) |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Landscape](https://user-images.githubusercontent.com/122201501/224092887-2831f50c-78eb-470a-8788-abbe909870b8.png) |
+| Device      | Virtual | OS        | API | Orientation                                                                                                         |
+|-------------|---------|-----------|-----|---------------------------------------------------------------------------------------------------------------------|
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Portrait](https://user-images.githubusercontent.com/122201501/224092909-240b911c-8f96-49c2-b80b-183c2c3fd2e2.png)  |
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Landscape](https://user-images.githubusercontent.com/122201501/224092887-2831f50c-78eb-470a-8788-abbe909870b8.png) |
