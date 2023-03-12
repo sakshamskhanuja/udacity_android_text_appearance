@@ -3,4 +3,5 @@
     <color name="color_accent">#212121</color>
     <color name="color_primary">@color/color_primary_dark</color>
     <color name="color_primary_dark">#0D47A1</color>
+    <color name="color_text">@android:color/black</color>
 </resources>
