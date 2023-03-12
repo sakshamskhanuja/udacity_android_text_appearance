@@ -18,8 +18,8 @@ Following is the <b>style</b> used for ```android:textAppearance```:
 ```xml
 <!-- Text Appearance for TextView -->
 <style name="TextAppearance.Important" parent="TextAppearance.AppCompat">
-    <item name="android:textColor">@android:color/black</item>
-    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">@color/color_text</item>
+    <item name="android:textSize">@dimen/text_size_default</item>
 </style>
 ```
 
