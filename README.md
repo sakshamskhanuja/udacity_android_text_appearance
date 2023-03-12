@@ -8,9 +8,12 @@ the ```android:textAppearance``` attribute.
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="wrap_content"
-    android:layout_height="wrap_content" android:text="@string/description"
-    android:textAppearance="@style/TextAppearance.Important" tools:context=".MainActivity" />
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/description"
+    android:textAppearance="@style/TextAppearance.Important"
+    tools:context=".MainActivity" />
 ```
 
 Following is the <b>style</b> used for ```android:textAppearance```:
